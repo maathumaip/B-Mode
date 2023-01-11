@@ -7,7 +7,7 @@
 using namespace std;
 
 /*Coded on dataBuffer.cpp, imageParam.cpp, BmodeClass.cpp and Bmode.cpp. 
-Certain elements of this code were provided by my Professor.*/
+Certain elements of this code were provided by my professor.*/
 
 int main(){
     
